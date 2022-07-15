@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>leader_board.txt</file>
+    </qresource>
+</RCC>

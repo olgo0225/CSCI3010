@@ -1,0 +1,30 @@
+Welcome to CandyLand 2.0!
+
+To start the game, press "Start".  Then, use the slider to choose
+between 2-4 players. Once you have selected the desired number of
+players, it is Player 1's turn and they will draw a card by pressing
+"Draw Card".
+
+A player can receive an upgrade in two different ways.  If a player
+lands on a tile with a circle in the upper left hand corner, they
+receive a skip upgrade and will be able to press the "Skip Turn"
+button if they draw an undesired card during their move.  This
+upgrade can be used at any time during the game.  The second upgrade
+is received when a player draws an upgrade card.  These are disguised
+as normal cards. The player will be able to press the "Move 5" button
+and move forward 5 spaces as a replacement for their turn.
+  
+If the player does not have any upgrades or chooses not to use one,
+they will press "Move Player" after drawing a card to move their player
+to the nearest tile with that color.  In addition to regular cards,
+there are also location cards that transport the current player to the
+tile with the same shape and color as the card.  This can be a move up
+or a move down for the player depending on the location of the tile.
+
+The goal of the game is to reach the upper left hand corner of the game
+board before any of the other players.  However, you must get the exact
+color of the ending tile to win.  If at any time the game you
+choose to end the game, press "End Game" and the game will be stopped.
+To start a new game, press "New Game".
+
+Good Luck!
